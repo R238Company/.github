@@ -1,14 +1,34 @@
-## R238 - Inovação é sobre pessoas 
+# R238 — Tecnologia que gera resultado
 
-<!--
+A R238 nasceu de uma convicção simples: **IA e automação só têm valor quando produzem resultado financeiro mensurável**.
 
-**Here are some ideas to get you started:**
+Fundada por um pioneiro em inteligência artificial com experiência em projetos de alto impacto, a empresa surgiu da frustração com soluções de TI que impressionam em demo mas não entregam na operação. Nossa missão é o oposto disso.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-Fundada há três anos por um pioneiro no campo da inteligência artificial, a R238 surgiu do desejo de enfrentar e superar um dos maiores desafios do setor: a demonstração efetiva dos resultados financeiros gerados pela IA. 
-Inspirado pela experiência acumulada em diversos projetos de IA, nosso fundador percebeu uma oportunidade única de não apenas desenvolver sistemas avançados, mas também de traduzir a complexidade da tecnologia em benefícios concretos e mensuráveis para as empresas.
+---
+
+## O que fazemos
+
+Desenvolvemos **componentes de TI modulares e orientados à automação** — pipelines, integrações, agentes e sistemas de dados — prontos para operar em qualquer ambiente:
+
+- **Cloud-agnóstico**: AWS, GCP, Azure ou on-premise. A arquitetura serve o negócio, não o vendor.
+- **Automação de ponta a ponta**: da coleta de dados à entrega de resultado, sem etapas manuais desnecessárias.
+- **Valor real e rastreável**: cada componente entregue tem métrica associada. Se não dá para medir, não vale implementar.
+
+---
+
+## Como trabalhamos
+
+| Princípio | Na prática |
+|-----------|-----------|
+| Modularidade | Componentes independentes, substituíveis e reutilizáveis |
+| Portabilidade | Zero lock-in de plataforma por padrão |
+| Observabilidade | Logs, métricas e alertas desde o primeiro deploy |
+| Resultado primeiro | Escopo definido pelo impacto esperado, não pela tecnologia disponível |
+
+---
+
+## Contato
+
+Quer entender como transformar um processo manual em uma operação automatizada com retorno claro?
+
+Entre em contato — a conversa começa pelo problema, não pela solução.
